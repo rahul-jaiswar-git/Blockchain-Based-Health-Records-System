@@ -1,15 +1,12 @@
 # Blockchain Based Healthcare Records System
 
-<img src="home-page.png" alt="Home Page – Doctor and Patient Login" style="display: block; margin: 0 auto; max-width: 600px;">
-<p align="center"><i>Home Page – Doctor and Patient Login</i></p>
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/rahul-jaiswar-git/Blockchain-Based-Health-Records-System?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/rahul-jaiswar-git/Blockchain-Based-Health-Records-System?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/rahul-jaiswar-git/Blockchain-Based-Health-Records-System?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/rahul-jaiswar-git/Blockchain-Based-Health-Records-System?style=for-the-badge)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/rahul-jaiswar-git/Blockchain-Based-Health-Records-System?style=for-the-badge)
 
-<img src="project-screenshot.png" alt="Healthcare Blockchain System Screenshot">
+<img src="home-page.png" alt="Healthcare Blockchain System Screenshot">
 
 > A decentralized healthcare record management system built on Ethereum blockchain. This system allows doctors to securely manage patient records while ensuring data integrity and privacy. Patients can access their medical history through a user-friendly interface.
 

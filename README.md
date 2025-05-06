@@ -1,4 +1,7 @@
-# Healthcare Blockchain System
+# Blockchain Based Healthcare Records System
+
+<img src="home-page.png" alt="Home Page – Doctor and Patient Login" style="display: block; margin: 0 auto; max-width: 600px;">
+<p align="center"><i>Home Page – Doctor and Patient Login</i></p>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/rahul-jaiswar-git/Blockchain-Based-Health-Records-System?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/rahul-jaiswar-git/Blockchain-Based-Health-Records-System?style=for-the-badge)

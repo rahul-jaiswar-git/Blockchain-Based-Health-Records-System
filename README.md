@@ -1,10 +1,12 @@
 # Healthcare Blockchain System
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/healthcare-blockchain?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/yourusername/healthcare-blockchain?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/healthcare-blockchain?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/healthcare-blockchain?style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/healthcare-blockchain?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/rahul-jaiswar-git/Blockchain-Based-Health-Records-System?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/rahul-jaiswar-git/Blockchain-Based-Health-Records-System?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/rahul-jaiswar-git/Blockchain-Based-Health-Records-System?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/rahul-jaiswar-git/Blockchain-Based-Health-Records-System?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/rahul-jaiswar-git/Blockchain-Based-Health-Records-System?style=for-the-badge)
+
+<img src="project-screenshot.png" alt="Healthcare Blockchain System Screenshot">
 
 > A decentralized healthcare record management system built on Ethereum blockchain. This system allows doctors to securely manage patient records while ensuring data integrity and privacy. Patients can access their medical history through a user-friendly interface.
 
@@ -37,8 +39,8 @@ To install the Healthcare Blockchain System, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/healthcare-blockchain.git
-cd healthcare-blockchain
+git clone https://github.com/rahul-jaiswar-git/Blockchain-Based-Health-Records-System.git
+cd Blockchain-Based-Health-Records-System
 ```
 
 2. Install dependencies:
@@ -118,46 +120,58 @@ To contribute to this project, follow these steps:
 
 ## 🏗️ Architecture
 
-## 🤝 Contributors
+<!-- Architecture section to be updated later -->
+```
+project/
+├── contracts/                 # Smart Contracts
+│   └── HealthcareRecords.sol  # Main Healthcare Contract
+├── frontend/                  # React Frontend
+│   ├── src/
+│   │   ├── components/       # React Components
+│   │   ├── utils/           # Utility Functions
+│   │   └── artifacts/       # Compiled Contract Files
+├── scripts/                  # Deployment Scripts
+└── hardhat.config.js        # Hardhat Configuration
+```
 
-We thank the following people who contributed to this project:
+## 🤝 Contributors
 
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="define the link title">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Iuri Silva's GitHub photo"/><br>
+      <a href="https://github.com/rahul-jaiswar-git" title="Rahul Jaiswar">
+        <img src="https://avatars.githubusercontent.com/rahul-jaiswar-git" width="100px;" alt="Rahul Jaiswar's GitHub photo"/><br>
         <sub>
-          <b>Iuri Silva</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#" title="define the link title">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Mark Zuckerberg's photo"/><br>
-        <sub>
-          <b>Mark Zuckerberg</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#" title="define the link title">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Steve Jobs' photo"/><br>
-        <sub>
-          <b>Steve Jobs</b>
+          <b>Rahul Jaiswar</b>
         </sub>
       </a>
     </td>
   </tr>
 </table>
 
-## 😄 Be one of the contributors
-
-Want to be part of this project? Click [HERE](CONTRIBUTING.md) and read how to contribute.
-
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+MIT License
+
+Copyright (c) 2024 Rahul Jaiswar
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## ⚠️ Important Notes
 
